@@ -11,6 +11,6 @@ SF ID- 260256
 | Folder | Description |
 |:-------|:------------|
 | Certificates | contains all necessary certificates |
-| Codes | Daily practice Python codes |
+| Daily_practice_codes | Daily practice Python codes |
 | Output_Screenshot | Screenshot of the outputs of daily practice codes |
 
