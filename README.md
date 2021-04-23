@@ -1,5 +1,7 @@
 # Daily_Practice_Python
 
+#### Includes Certificates like PCAP Python certificate, SoloLearn Python Certificate
+
 ### Personal Details
 
 Name - Prabhat Roshan
