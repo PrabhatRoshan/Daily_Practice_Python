@@ -1,6 +1,6 @@
 # Daily_Practice_Python
 
-#### Includes Certificates like PCAP Python certificate, SoloLearn Python Certificate
+#### Includes Certificates like PCAP Python certificate, SoloLearn Python Certificate and Gold Badge on HackerRank Platform
 
 ### Personal Details
 
